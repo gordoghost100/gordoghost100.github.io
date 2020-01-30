@@ -1,0 +1,42 @@
+a:link {
+color: #282828;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: #ff914d;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+color: #616d98;
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:active {
+color: #282828;
+background-color: transparent;
+text-decoration: underline;
+}
+
+body {
+	background-image: url("Background.png");
+	padding: 20px;
+}
+
+h2{
+	font-family: 'Calistoga', cursive; 20px;
+}
+
+ p, li{
+	font-family: 'Balthazar', serif;
+}
+
+table,td,th{
+	border: solid; 3px; black;
+	border-collapse: collapse;
+	padding: 5px;
+}

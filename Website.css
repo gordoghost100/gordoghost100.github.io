@@ -40,3 +40,7 @@ table,td,th{
 	border-collapse: collapse;
 	padding: 5px;
 }
+
+p, h2, table{
+	margin-left:7px;
+}
